@@ -1,0 +1,10 @@
+linux ubuntu
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install default-jre default-jdk
+java -version
+export JAVA_HOME=/usr/../../java*
+download hadoop
+sudo tar -zxf hadoop.tar.gz -C /hadoop
+添加Hadoop账号，添加密码
+登陆
